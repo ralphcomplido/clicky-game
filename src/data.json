@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "image": "/assets/images/charles.PNG",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "/assets/images/charlesS.PNG",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "/assets/images/faith.PNG",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "/assets/images/felice.PNG",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "/assets/images/gab.PNG",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "/assets/images/jess.PNG",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "/assets/images/kalvin.PNG",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "/assets/images/wes.PNG",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "/assets/images/raphael.PNG",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "image": "/assets/images/ronnie.PNG",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "image": "/assets/images/rory.PNG",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "image": "/assets/images/ross.PNG",
+    "clicked": false
+  }
+]
